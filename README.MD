@@ -13,6 +13,8 @@ Currently, I am expanding my skillset into **Generative AI**, exploring how to i
 **Backend & Architecture:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695eb?style=for-the-badge&logo=quarkus&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
 
 **Frontend:**
@@ -25,8 +27,9 @@ Currently, I am expanding my skillset into **Generative AI**, exploring how to i
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Currently Exploring (AI):**
+![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI ChatGPT](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-Integration-orange?style=for-the-badge)
 
 ---
